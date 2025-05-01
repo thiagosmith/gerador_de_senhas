@@ -37,7 +37,7 @@ def gerar_senha():
 quantidade = int(input("Quantas senhas deseja gerar? "))
 
 # Nome do arquivo onde as senhas serão salvas
-nome_arquivo = "senhas_geradas.txt"
+nome_arquivo = "senhas.txt"
 
 # Gerar e salvar as senhas no arquivo
 with open(nome_arquivo, "w") as arquivo:
