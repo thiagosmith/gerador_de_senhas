@@ -34,7 +34,7 @@ def gerar_senha():
     return ''.join(senha)
 
 def gerar_lista_senhas(quantidade):
-    nome_arquivo = "senhas_geradas.txt"
+    nome_arquivo = "senhas.txt"
     senhas = []
 
     with open(nome_arquivo, "w") as arquivo:
