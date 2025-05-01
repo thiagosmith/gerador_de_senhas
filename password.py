@@ -1,4 +1,4 @@
-# Scrit Password
+# Script Password
 # Python3
 # Gera uma única senha por execução
 # Criado em 01-05-2025 by 5M1TH - OffSec Team | Smith Braz
