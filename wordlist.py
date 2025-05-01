@@ -1,3 +1,16 @@
+# Script Wordlist
+# Python3
+# Cria uma lista de senhas de acordo com a quantidade de palavras informada pelo usuario
+# Criado em 01-05-2025 by 5M1TH - OffSec Team | Smith Braz
+
+banner = """
+#############################################
+#                                           #
+#    5M1TH - OffSec Team | Smith Braz       #
+#                                           #
+#############################################
+"""
+
 import random
 import string
 
