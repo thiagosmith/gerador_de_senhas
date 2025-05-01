@@ -10,6 +10,7 @@ banner = """
 #                                           #
 #############################################
 """
+print(banner)
 
 import random
 import string
